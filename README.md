@@ -4,7 +4,6 @@
 
 **Team TechForge**
 
-![CI](https://github.com/Samdarshil/socialiq/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.13-blue) ![React](https://img.shields.io/badge/react-19-61dafb)
 
 SocialIQ is a social-media intelligence platform. Its core is a **machine-learning analysis of YouTube trending-video engagement**: videos are clustered into lower, moderate and higher engagement groups from views, likes, comments and engagement rate, and each group is explained. Around that core it adds cross-platform creator analytics, an explainable performance simulator, and an AI assistant **powered by Google Gemini** that answers from real analytics tools.
 
