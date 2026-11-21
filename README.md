@@ -4,7 +4,6 @@
 
 <br>
 
-[![1st Place](https://img.shields.io/badge/%F0%9F%8F%86_1st_Place-Data_Analytics_%26_ML_Hackathon-34D399?style=for-the-badge&labelColor=10151C)](#-hackathon)
 [![JNU x Samatrix](https://img.shields.io/badge/Jaipur_National_University_%C3%97_Samatrix_Consulting-22D3EE?style=for-the-badge&labelColor=10151C)](#-hackathon)
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
