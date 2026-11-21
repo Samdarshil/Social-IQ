@@ -7,7 +7,6 @@
 [![1st Place](https://img.shields.io/badge/%F0%9F%8F%86_1st_Place-Data_Analytics_%26_ML_Hackathon-34D399?style=for-the-badge&labelColor=10151C)](#-hackathon)
 [![JNU x Samatrix](https://img.shields.io/badge/Jaipur_National_University_%C3%97_Samatrix_Consulting-22D3EE?style=for-the-badge&labelColor=10151C)](#-hackathon)
 
-![CI](https://github.com/Samdarshil/socialiq/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.13-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -26,7 +25,7 @@
 
 SocialIQ was built for the **Data Analytics and Machine Learning Hackathon** organised by **Jaipur National University** in collaboration with **Samatrix Consulting Pvt. Ltd.**
 
-**It secured 1st position.** It was designed and developed end to end by one developer, [Darshil](https://github.com/Samdarshil).
+**It secured 1st position.** It was designed and developed end to end by [Darshil Samson](https://github.com/Samdarshil).
 
 The challenge was *Social Media / YouTube Engagement Analysis*: analyse YouTube trending-video data and use machine learning to group videos by engagement pattern. SocialIQ answers it with a clustering analysis of the Kaggle trending dataset, then goes further with cross-platform creator analytics, an explainable performance simulator, and a Gemini-powered assistant.
 
@@ -198,8 +197,5 @@ scripts/                       doctor.py, build_trending_snapshots.py
 - **Simulator.** Its metrics are on synthetic demo data: it ranks posts better than chance but does not beat the baseline on absolute error ([ML](docs/ML.md)).
 - "What should I post next" takes about 5 s uncached. The Docker image build is untested. The raw Kaggle CSVs are not in the repository.
 
-## 👤 Author
-
-Built solo by **Darshil** ([@Samdarshil](https://github.com/Samdarshil)), 2nd-year BCA (AI/ML) student at Jaipur National University, for the Data Analytics and Machine Learning Hackathon, 1st position.
 
 Released under the [MIT License](LICENSE).
