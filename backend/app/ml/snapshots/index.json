@@ -1,0 +1,122 @@
+[
+ {
+  "country": "US",
+  "videos": 6229,
+  "silhouette": 0.313,
+  "stability_ari": 0.948,
+  "median_engagement_rate": 0.0279,
+  "sizes": [
+   921,
+   3103,
+   2205
+  ]
+ },
+ {
+  "country": "GB",
+  "videos": 3213,
+  "silhouette": 0.315,
+  "stability_ari": 0.943,
+  "median_engagement_rate": 0.027,
+  "sizes": [
+   981,
+   1066,
+   1166
+  ]
+ },
+ {
+  "country": "CA",
+  "videos": 23888,
+  "silhouette": 0.298,
+  "stability_ari": 0.973,
+  "median_engagement_rate": 0.0262,
+  "sizes": [
+   4933,
+   11429,
+   7526
+  ]
+ },
+ {
+  "country": "DE",
+  "videos": 28499,
+  "silhouette": 0.352,
+  "stability_ari": 0.989,
+  "median_engagement_rate": 0.0301,
+  "sizes": [
+   7894,
+   8166,
+   12439
+  ]
+ },
+ {
+  "country": "FR",
+  "videos": 29572,
+  "silhouette": 0.356,
+  "stability_ari": 0.993,
+  "median_engagement_rate": 0.0299,
+  "sizes": [
+   9729,
+   8716,
+   11127
+  ]
+ },
+ {
+  "country": "IN",
+  "videos": 15524,
+  "silhouette": 0.399,
+  "stability_ari": 0.923,
+  "median_engagement_rate": 0.0088,
+  "sizes": [
+   8375,
+   2940,
+   4209
+  ]
+ },
+ {
+  "country": "JP",
+  "videos": 11531,
+  "silhouette": 0.335,
+  "stability_ari": 0.928,
+  "median_engagement_rate": 0.0151,
+  "sizes": [
+   3881,
+   5581,
+   2069
+  ]
+ },
+ {
+  "country": "KR",
+  "videos": 14987,
+  "silhouette": 0.344,
+  "stability_ari": 0.989,
+  "median_engagement_rate": 0.0152,
+  "sizes": [
+   5857,
+   4230,
+   4900
+  ]
+ },
+ {
+  "country": "MX",
+  "videos": 32682,
+  "silhouette": 0.373,
+  "stability_ari": 0.991,
+  "median_engagement_rate": 0.0345,
+  "sizes": [
+   13201,
+   9592,
+   9889
+  ]
+ },
+ {
+  "country": "RU",
+  "videos": 32521,
+  "silhouette": 0.347,
+  "stability_ari": 0.985,
+  "median_engagement_rate": 0.0474,
+  "sizes": [
+   9825,
+   9438,
+   13258
+  ]
+ }
+]

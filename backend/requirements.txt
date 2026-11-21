@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pandas
+numpy
+scikit-learn
+scipy
+shap
+xgboost
+sqlalchemy
+cryptography
+python-jose[cryptography]
+bcrypt
+httpx
+python-dotenv
+google-genai

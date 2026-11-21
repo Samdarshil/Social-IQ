@@ -1,0 +1,19 @@
+# One container serves the API and the built web app on http://localhost:8000
+#   docker compose up --build
+# Optional secrets (Gemini, OAuth) go in backend/.env (copy backend/.env.example). Demo mode needs none.
+services:
+  socialiq:
+    build: .
+    ports: ["8000:8000"]
+    env_file:
+      - path: ./backend/.env
+        required: false
+    environment:
+      SOCIALIQ_ENV: development          # set to production behind HTTPS (hides /docs, adds HSTS)
+      FRONTEND_URL: http://localhost:8000
+      BACKEND_URL: http://localhost:8000
+      CORS_ORIGINS: http://localhost:8000
+    volumes: ["socialiq-data:/app/data"]  # SQLite database + generated dev secrets
+    restart: unless-stopped
+volumes:
+  socialiq-data:

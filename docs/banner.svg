@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="SocialIQ: your social presence, one intelligent view">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="-10%" r="70%"><stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="#080B10"/>
+  <rect width="1280" height="320" rx="20" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="1279" height="319" rx="19.5" fill="none" stroke="#24303D"/>
+  <g transform="translate(96 74)">
+    <rect width="72" height="72" rx="20" fill="#10151C" stroke="#24303D"/>
+    <path d="M14 48l11-14 9 7 11-18 13 16" fill="none" stroke="#22D3EE" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="58" cy="26" r="5" fill="#34D399"/>
+  </g>
+  <text x="196" y="130" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#F4F7FA">Social<tspan fill="url(#g)">IQ</tspan></text>
+  <text x="98" y="204" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#94A3B8">Your social presence. One intelligent view.</text>
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="98" y="238" width="336" height="34" rx="17" fill="#161D26" stroke="#24303D"/><text x="266" y="260" text-anchor="middle" fill="#34D399">1ST PLACE · DA &amp; ML HACKATHON</text>
+    <rect x="448" y="238" width="312" height="34" rx="17" fill="#161D26" stroke="#24303D"/><text x="604" y="260" text-anchor="middle" fill="#22D3EE">KMEANS ENGAGEMENT CLUSTERS</text>
+    <rect x="774" y="238" width="292" height="34" rx="17" fill="#161D26" stroke="#24303D"/><text x="920" y="260" text-anchor="middle" fill="#F4F7FA">GEMINI-POWERED ASSISTANT</text>
+  </g>
+  <g transform="translate(1010 40)" fill="none" stroke="#24303D">
+    <circle cx="120" cy="90" r="86"/><circle cx="120" cy="90" r="56"/><circle cx="120" cy="90" r="26"/>
+  </g>
+  <g transform="translate(1010 40)">
+    <circle cx="82" cy="64" r="7" fill="#94A3B8"/><circle cx="150" cy="112" r="9" fill="#22D3EE"/><circle cx="104" cy="126" r="6" fill="#22D3EE"/><circle cx="178" cy="62" r="8" fill="#34D399"/><circle cx="196" cy="98" r="6" fill="#34D399"/><circle cx="64" cy="108" r="5" fill="#94A3B8"/><circle cx="130" cy="60" r="5" fill="#22D3EE"/>
+  </g>
+</svg>
