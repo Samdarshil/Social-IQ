@@ -4,8 +4,6 @@
 
 <br>
 
-[![JNU x Samatrix](https://img.shields.io/badge/Jaipur_National_University_%C3%97_Samatrix_Consulting-22D3EE?style=for-the-badge&labelColor=10151C)](#-hackathon)
-
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.13-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
